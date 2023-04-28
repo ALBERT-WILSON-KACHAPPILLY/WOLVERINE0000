@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @WOLVERINE0000
-- 👀 I’m interested in programming. 
+- 👋 Hi, I’m WOLVERINE0000 😁😁😁
+- 👀 I’m interested in tech. 
 - 🌱 I’m currently learning B.TECH CHEMICAL ENGINEERING. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m in my learning phase C, C++, PYTHON, JAVA.
 - 📫 How to reach me .. albertwilsonkachappilly@gmail.com
 
 <!---
